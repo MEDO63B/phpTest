@@ -15,6 +15,7 @@ echo"
 <html>
     <head>
     <script>
+    alert('Welcome !');
     let btn = document.getElementsByTagName('button');
     for(let b=0; b<btn.length ;b++)
     {
